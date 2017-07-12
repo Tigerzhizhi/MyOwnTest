@@ -1,4 +1,4 @@
 # exclude .bak file
 *.bak
 *.txt
-MyOwnTest/aaa/bbb/
+aaa/bbb/
